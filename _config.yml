@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -48,3 +47,5 @@ content:
 title: AI
 description: bots don't know
 github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7bc0ef3-cd8d-4e34-985c-5a6b76f4a439.png
