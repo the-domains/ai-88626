@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  brandStrength: 0.13539481745101511
+  lightness: 0.3162557543255389
+  saturation: 0.09077689447440207
+  rhythmicContrast: 0.7519053383730352
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: AI
+layout_spectrum: 0.25878137024119496
+typography_spectrum: 0.7716179464478046
+content: []
+title: AI
+description: bots don't know
+github: true
